@@ -1,3 +1,3 @@
-# Hey-there
-this is my first repository.
+# Hello!
+this is my ML repository.
 Welcome!
